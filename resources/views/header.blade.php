@@ -51,7 +51,7 @@
           <span class="selector"></span>
           <ul>
             <li><i class="fa fa-user-circle-o" aria-hidden="true"></i> <a href="#">{{Session::get('user')['fname']}}'s profile</a></li>
-            <li><i class="fa fa-shopping-bag" aria-hidden="true"></i><a href="#">Saved</a></li>
+            <li><i class="fa fa-shopping-bag" aria-hidden="true"></i><a href="#">Card</a></li>
             <li><i class="fa fa-heart-o" aria-hidden="true"></i><a href="#">Likes</a></li>
             <li><i class="fa fa-bookmark-o" aria-hidden="true"></i><a href="#">Saved</a></li>
             -
